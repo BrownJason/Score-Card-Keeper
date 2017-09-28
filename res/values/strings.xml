@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="playersName">Enter players name, seperated with a comma</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    <string name="players">Player Names: </string>
+    <string name="score">Score</string>
+    <string name="back">Back</string>
+    <string name="finalscore">%1$d</string>
+    <string name="totals">Total</string>
+    <string name="playerscore">%1$d</string>
+    <string name="booksAndRuns">Books and Runs</string>
+    <string name="exit">Exit</string>
+    <string name="golf">Golf Score</string>
+</resources>
